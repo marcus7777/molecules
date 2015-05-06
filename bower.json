@@ -1,0 +1,28 @@
+{
+  "name": "molecules",
+  "version": "0.8.0",
+  "homepage": "https://github.com/PolymerElements/molecules",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "description": "\"Molecules are elements that wrap other javascript libraries.\"",
+  "main": "\"molecules.html\"",
+  "keywords": [
+    "web-components",
+    "polymer"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "prism-element": "PolymerElements/prism-element#^0.8.0",
+    "chartjs-element": "PolymerElements/chartjs-element#^0.8.0",
+    "firebase-element": "PolymerElements/firebase-element#^0.8.0",
+    "marked-element": "PolymerElements/marked-element#^0.8.0"
+  }
+}
