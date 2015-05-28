@@ -1,6 +1,6 @@
 {
   "name": "molecules",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "homepage": "https://github.com/PolymerElements/molecules",
   "authors": [
     "The Polymer Authors"
@@ -20,9 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "prism-element": "PolymerElements/prism-element#^0.8.0",
-    "chartjs-element": "PolymerElements/chartjs-element#^0.8.0",
-    "firebase-element": "PolymerElements/firebase-element#^0.8.0",
-    "marked-element": "PolymerElements/marked-element#^0.8.0"
+    "firebase-element": "GoogleWebComponents/firebase-element#^0.9.0",
+    "marked-element": "PolymerElements/marked-element#^0.9.0"
   }
 }
