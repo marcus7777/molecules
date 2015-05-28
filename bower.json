@@ -5,7 +5,7 @@
   "authors": [
     "The Polymer Authors"
   ],
-  "description": "\"Molecules are elements that wrap other javascript libraries.\"",
+  "description": "Molecules are elements that wrap other javascript libraries. More of these coming soon!",
   "main": "\"molecules.html\"",
   "keywords": [
     "web-components",
