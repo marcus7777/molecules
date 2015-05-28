@@ -11,7 +11,7 @@
     "web-components",
     "polymer"
   ],
-  "license": "BSD",
+  "license": "http://polymer.github.io/LICENSE.txt",
   "ignore": [
     "**/.*",
     "node_modules",
