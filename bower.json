@@ -21,6 +21,6 @@
   ],
   "dependencies": {
     "marked-element": "PolymerElements/marked-element#^1.0.0",
-    "lunr-js": "marcus7777/lunr-js"
+    "lunr-js": "marcus7777/lunr-js#master"
   }
 }
