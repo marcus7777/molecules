@@ -1,17 +1,15 @@
 {
   "name": "molecules",
   "version": "1.0.0",
-  "homepage": "https://github.com/PolymerElements/molecules",
+  "homepage": "https://github.com/marcus7777/molecules",
   "authors": [
-    "The Polymer Authors"
+    "The Polymer community"
   ],
   "description": "Molecules are elements that wrap other javascript libraries. More of these coming soon!",
-  "main": "molecules.html",
   "keywords": [
     "web-components",
     "polymer"
   ],
-  "license": "http://polymer.github.io/LICENSE.txt",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -21,6 +19,7 @@
   ],
   "dependencies": {
     "marked-element": "PolymerElements/marked-element#^1.0.0",
-    "lunr-js": "marcus7777/lunr-js#master"
+    "lunr-js": "marcus7777/lunr-js#master",
+    "last-fm" : "Granze/last-fm"
   }
 }
