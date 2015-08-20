@@ -21,6 +21,7 @@
     "marked-element": "PolymerElements/marked-element#^1.0.0",
     "lunr-js": "marcus7777/lunr-js#master",
     "last-fm" : "Granze/last-fm",
-    "snap-svg":"marcus7777/snap-svg#master"
+    "snap-svg":"marcus7777/snap-svg#master",
+    "accounting-element":"Granze/accounting-element"
   }
 }
