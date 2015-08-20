@@ -22,7 +22,7 @@
     "lunr-js": "marcus7777/lunr-js#master",
     "last-fm" : "Granze/last-fm",
     "snap-svg":"marcus7777/snap-svg#master",
-    "accounting-element":"Granze/accounting-element"
+    "accounting-element":"Granze/accounting-element",
     "voice-elements":"zenorocha/voice-elements"
   }
 }
