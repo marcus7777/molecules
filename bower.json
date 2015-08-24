@@ -24,6 +24,7 @@
     "snap-svg":"marcus7777/snap-svg#master",
     "accounting-element":"Granze/accounting-element",
     "voice-elements":"zenorocha/voice-elements",
-    "pubnub-polymer":"pubnub/pubnub-polymer"
+    "pubnub-polymer":"pubnub/pubnub-polymer",
+    "get-hash":"marcus7777/get-hash"
   }
 }
