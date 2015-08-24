@@ -25,6 +25,7 @@
     "accounting-element":"Granze/accounting-element",
     "voice-elements":"zenorocha/voice-elements",
     "pubnub-polymer":"pubnub/pubnub-polymer",
-    "get-hash":"marcus7777/get-hash"
+    "get-hash":"marcus7777/get-hash",
+    "geo-hash-data":"marcus7777/geo-hash-data"
   }
 }
