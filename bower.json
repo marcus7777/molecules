@@ -26,6 +26,7 @@
     "voice-elements":"zenorocha/voice-elements",
     "pubnub-polymer":"pubnub/pubnub-polymer",
     "get-hash":"marcus7777/get-hash",
-    "geo-hash-data":"marcus7777/geo-hash-data"
+    "geo-hash-data":"marcus7777/geo-hash-data",
+    "geohash-js":"marcus7777/geohash-js"
   }
 }
