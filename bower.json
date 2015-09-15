@@ -30,6 +30,7 @@
     "geohash-js":"marcus7777/geohash-js",
     "identicon-avatar":"Granze/identicon-avatar",
     "sortable-list":"marcus7777/sortable-list",
-    "prism-element":"PolymerElements/prism-element"
+    "prism-element":"PolymerElements/prism-element",
+    "animation-tag":"ismaelfaro/animation-tag"
   }
 }
